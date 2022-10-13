@@ -178,10 +178,10 @@ Our documentation features [a collection of example projects using Material UI](
 
 ## Documentation
 
-- [Material UI](https://mui.com/material-ui/getting-started/overview/)
-- [Joy UI](https://mui.com/joy-ui/getting-started/overview/)
-- [MUI Base](https://mui.com/base/getting-started/overview/)
-- [MUI System](https://mui.com/system/getting-started/overview/)
+- [Material UI.](https://mui.com/material-ui/getting-started/overview/)
+- [Joy UI.](https://mui.com/joy-ui/getting-started/overview/)
+- [MUI Base.](https://mui.com/base/getting-started/overview/)
+- [MUI System.](https://mui.com/system/getting-started/overview/)
 
 ## Premium themes
 
